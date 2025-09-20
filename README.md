@@ -68,13 +68,24 @@ export default defineConfig([
 ])
 ```
 
+Screenshots
+
+<img width="1281" height="710" alt="Screenshot 2025-09-20 200650" src="https://github.com/user-attachments/assets/984ddc3e-f3ac-4400-8266-6660c4bed295" />
+<img width="1919" height="1077" alt="Screenshot 2025-09-20 200906" src="https://github.com/user-attachments/assets/195674ac-1c61-4136-bba0-8aa292918f5f" />
+<img width="1918" height="1073" alt="Screenshot 2025-09-20 200819" src="https://github.com/user-attachments/assets/3f776098-1897-4dae-8317-9b7e57bd45f8" />
+<img width="1919" height="1081" alt="Screenshot 2025-09-20 200707" src="https://github.com/user-attachments/assets/5be381b2-00be-4424-8916-b46658120879" />
+<img width="1919" height="1078" alt="Screenshot 2025-09-20 200806" src="https://github.com/user-attachments/assets/f03380c4-ae8d-4d53-8837-b4cb8b6ae184" />
+<img width="1918" height="1082" alt="Screenshot 2025-09-20 200751" src="https://github.com/user-attachments/assets/90ff89fa-dfab-4443-9894-5083db878b28" />
 
 
-**My AI Usage**
 
-For this project, I used AI tools responsibly to accelerate development and maintain good coding practices. Below is a breakdown of how I leveraged them:
 
-**🔧 Tools Used**
+
+🚀 My AI Usage
+
+I used AI tools responsibly to accelerate development and maintain good coding practices. Below is a breakdown of how I leveraged them:
+
+🔧 Tools Used
 
 ChatGPT (GPT-5, OpenAI)
 
@@ -82,58 +93,57 @@ GitHub Copilot
 
 Cursor
 
-**💡 How I Used Them**
+💡 How I Used Them
+🖥️ Backend Development
 
-**Backend Development:**
+Generated Express.js boilerplate (routes, middleware, Mongoose models) with ChatGPT.
 
-Asked ChatGPT for boilerplate code for Express.js routes, middleware, and Mongoose models.
+Debugged JWT authentication & cookie handling issues via ChatGPT.
 
-Used ChatGPT to debug JWT authentication and cookie handling issues.
+Verified MongoDB connection/config errors with ChatGPT.
 
-Verified MongoDB connection errors and configuration with ChatGPT.
+Copilot suggested async/await error-handling snippets while writing controllers.
 
-Copilot suggested snippets while writing controllers (e.g., async/await error handling patterns).
+Cursor helped scaffold files and navigate backend modules efficiently.
 
-Used Cursor interactively in the code editor to quickly scaffold files and navigate between backend modules efficiently.
+🎨 Frontend Development
 
-**Frontend Development:**
+Used ChatGPT to scaffold React + Vite + Tailwind setup.
 
-Used ChatGPT to scaffold React + Vite + Tailwind project setup.
+Fixed Tailwind/PostCSS build issues with ChatGPT guidance.
 
-Requested guidance on fixing Tailwind/PostCSS issues during build.
+Generated reusable React components (Login, Register, Dashboard) & JWT auth context with ChatGPT.
 
-Asked ChatGPT to generate reusable React components (Login, Register, Dashboard) and context setup for JWT auth.
+Cursor assisted in writing TypeScript types and API call integrations.
 
-Cursor assisted in writing repetitive TypeScript types and connecting API calls seamlessly.
+🧪 Testing & TDD
 
-**Testing & TDD:**
+ChatGPT outlined Jest test cases for controllers & middleware.
 
-Asked ChatGPT to outline Jest test cases for controllers and middleware.
+Copilot generated test stubs, refined manually.
 
-Used Copilot to quickly generate test stubs, then refined them manually.
+Cursor streamlined test file navigation & repetitive setup refactoring.
 
-Cursor helped navigate test files and refactor repetitive test setups efficiently.
+📑 Documentation & Git
 
-Documentation & Git:
+ChatGPT drafted structured commit messages with Co-authored-by notes.
 
-ChatGPT helped draft structured commit messages with Co-authored-by notes.
+ChatGPT helped write this AI Usage section.
 
-Used ChatGPT to generate this "My AI Usage" section.
+Cursor enabled quick README navigation and content updates.
 
-Cursor was used to quickly jump between README sections and update content.
+🧭 Reflection on AI Impact
 
-**🧭 Reflection on AI Impact**
+AI tools boosted my productivity by:
 
-AI tools significantly improved my productivity by:
+⚡ Speeding up repetitive tasks (boilerplate, config, types).
 
-Speeding up repetitive coding tasks (boilerplate, config setup, types).
+🐞 Helping debug errors faster (JWT cookies, Tailwind builds).
 
-Helping me debug errors faster (especially with JWT cookies and Tailwind build issues).
+🤝 Acting as a coding partner — offering ideas while I made final decisions.
 
-Acting as a coding partner — giving me ideas, but leaving final decisions to me.
+🏗️ Freeing time to focus on architecture & clean code.
 
-Allowing me to focus more on architecture and clean code, rather than syntax errors.
+🔍 Enhancing workflow efficiency (Cursor for refactoring & navigation).
 
-Cursor specifically enhanced workflow efficiency in navigating and refactoring large code files.
-
-I was careful not to blindly accept AI suggestions. Every piece of code was reviewed, tested, and refactored where necessary. I see AI as a collaborator, not a replacement for my engineering judgment.
+👉 Importantly, I never blindly accepted AI suggestions. Every piece of code was reviewed, tested, and refactored. I treat AI as a collaborator, not a replacement for engineering judgment.
