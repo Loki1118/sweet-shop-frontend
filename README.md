@@ -70,7 +70,7 @@ export default defineConfig([
 # video of working model
 https://jam.dev/c/5f5762a1-b870-4762-8591-bc45fc3e010b
  
-```
+
 # Screenshots
 
 <img width="1281" height="710" alt="Screenshot 2025-09-20 200650" src="https://github.com/user-attachments/assets/984ddc3e-f3ac-4400-8266-6660c4bed295" />
@@ -81,7 +81,7 @@ https://jam.dev/c/5f5762a1-b870-4762-8591-bc45fc3e010b
 <img width="1918" height="1082" alt="Screenshot 2025-09-20 200751" src="https://github.com/user-attachments/assets/90ff89fa-dfab-4443-9894-5083db878b28" />
 
 
-```
+
 
 
 🚀 My AI Usage
